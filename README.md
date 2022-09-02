@@ -72,6 +72,7 @@ Stages In Classification:
    - Check Accuracy
    - Make A Prediction
    - Prediction Prob
+   - Prediction
    - To Know the classes
 
 
