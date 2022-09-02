@@ -47,7 +47,7 @@ Some of the most popular machine learning algorithms for creating text classific
  
  Metrices & Evaluation:
  ---
-    - It consists in splitting the traing set randomly into equal-length sets.
+   - It consists in splitting the training set randomly into equal-length sets.
     
 
 Stages In Classification:
